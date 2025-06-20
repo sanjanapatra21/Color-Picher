@@ -1,0 +1,42 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+#aqua{
+    background-color:aqua;
+    height:100px;
+    width: 100px;
+    margin: 5px;
+    border: 2px solid black;
+    display: flex;
+}
+#pink{
+    background-color:pink;
+    height:100px;
+    width: 100px;
+    margin: 5px;
+    border: 2px solid black;
+}
+#blue{
+    background-color:blue;
+    height:100px;
+    width: 100px;
+    margin: 5px;
+    border: 2px solid black;
+}
+#purple{
+    background-color:purple;
+    height:100px;
+    width: 100px;
+    margin: 5px;
+    border: 2px solid black;
+}
+#yellow{
+    background-color:yellow;
+    height:100px;
+    width: 100px;
+    margin: 5px;
+    border: 2px solid black;
+}
