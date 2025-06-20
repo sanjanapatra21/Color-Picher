@@ -1,1 +1,2 @@
 # Color-Picher
+This is a simple and responsive Color Picker built with HTML, CSS, and JavaScript. It allows users to select colors from a palette or input custom color values, and instantly view the result in real-time. Ideal for designers, developers, or anyone needing to grab hex or RGB color codes quickly. The project is lightweight, easy to customize, and can be integrated into any web project with minimal setup.
